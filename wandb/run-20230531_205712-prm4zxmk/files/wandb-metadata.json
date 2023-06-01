@@ -1,0 +1,77 @@
+{
+    "os": "Linux-5.15.0-72-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.3",
+    "heartbeatAt": "2023-06-01T01:57:13.269648",
+    "startedAt": "2023-06-01T01:57:12.626243",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "wandb_demo_3.py",
+    "codePath": "wandb_demo_3.py",
+    "git": {
+        "remote": "git@github.com:albwrekt/mlops_zoomcamp_hw3.git",
+        "commit": "9121545e4d8349187cb8fcc9f26a932e73ddccd7"
+    },
+    "email": "albrecht3era@gmail.com",
+    "root": "/home/albwrekt/mlops_zoomcamp/mlops_zoomcamp_hw3",
+    "host": "albwrekt-Latitude-7390-2-in-1",
+    "username": "albwrekt",
+    "executable": "/home/albwrekt/anaconda3/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1070.68625,
+        "min": 400.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 853.303,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 801.808,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 864.056,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 801.161,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 820.386,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 812.493,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.588,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 836.873,
+            "min": 400.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "total": 102.24666976928711,
+        "used": 94.14913558959961
+    },
+    "memory": {
+        "total": 15.506038665771484
+    }
+}

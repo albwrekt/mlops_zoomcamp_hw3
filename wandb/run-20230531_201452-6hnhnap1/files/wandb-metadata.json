@@ -1,0 +1,86 @@
+{
+    "os": "Linux-5.15.0-72-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.3",
+    "heartbeatAt": "2023-06-01T01:14:53.806238",
+    "startedAt": "2023-06-01T01:14:52.940983",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "mlops-zoomcamp-wandb",
+        "--wandb_entity",
+        "albrecht3era",
+        "--raw_data_path",
+        "data",
+        "--dest_path",
+        "./output"
+    ],
+    "state": "running",
+    "program": "preprocess_data.py",
+    "codePath": "preprocess_data.py",
+    "git": {
+        "remote": "git@github.com:albwrekt/mlops_zoomcamp_hw3.git",
+        "commit": "9121545e4d8349187cb8fcc9f26a932e73ddccd7"
+    },
+    "email": "albrecht3era@gmail.com",
+    "root": "/home/albwrekt/mlops_zoomcamp/mlops_zoomcamp_hw3",
+    "host": "albwrekt-Latitude-7390-2-in-1",
+    "username": "albwrekt",
+    "executable": "/home/albwrekt/anaconda3/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 946.5713750000001,
+        "min": 400.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 855.206,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 803.377,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.032,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.008,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.033,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.015,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.023,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.037,
+            "min": 400.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "total": 102.24666976928711,
+        "used": 94.09044647216797
+    },
+    "memory": {
+        "total": 15.506038665771484
+    }
+}

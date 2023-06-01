@@ -1,0 +1,84 @@
+{
+    "os": "Linux-5.15.0-72-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.3",
+    "heartbeatAt": "2023-06-01T03:16:47.104209",
+    "startedAt": "2023-06-01T03:16:46.553175",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "mlops-zoomcamp-wandb",
+        "--wandb_entity",
+        "albrecht3era",
+        "--data_artifact",
+        "albrecht3era/mlops-zoomcamp-wandb/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "sweep.py",
+    "codePath": "sweep.py",
+    "git": {
+        "remote": "git@github.com:albwrekt/mlops_zoomcamp_hw3.git",
+        "commit": "9121545e4d8349187cb8fcc9f26a932e73ddccd7"
+    },
+    "email": "albrecht3era@gmail.com",
+    "root": "/home/albwrekt/mlops_zoomcamp/mlops_zoomcamp_hw3",
+    "host": "albwrekt-Latitude-7390-2-in-1",
+    "username": "albwrekt",
+    "executable": "/home/albwrekt/anaconda3/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1849.21625,
+        "min": 400.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1705.396,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2005.679,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2198.405,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2301.746,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2400.04,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2400.004,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2400.021,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2400.019,
+            "min": 400.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "total": 102.24666976928711,
+        "used": 94.41556167602539
+    },
+    "memory": {
+        "total": 15.506038665771484
+    }
+}
